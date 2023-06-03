@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "url-dwarf"
+  },
+  "targets": {
+    "url-dwarf": {
+      "hosting": {
+        "url-show": [
+          "url-ez"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
